@@ -2,7 +2,7 @@
 #include <conio.h>
 int main()
 {
-	Min_Max();
+	max_sub();
 	_getch();
 	return 0;
 }
