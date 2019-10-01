@@ -23,5 +23,8 @@
     <ClInclude Include="Divide.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="Greedy.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
