@@ -1,8 +1,9 @@
 #include "Divide.h"
 #include <conio.h>
+#include "Greedy.h"
 int main()
 {
-	max_sub();
+	kruskal_method();
 	_getch();
 	return 0;
 }
